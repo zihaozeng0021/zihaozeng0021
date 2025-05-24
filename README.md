@@ -1,11 +1,12 @@
 <p align="center">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/English–EN–blue.svg" alt="English">
+    <img src="https://img.shields.io/badge/English-EN-blue.svg" alt="English">
   </a>
   <a href="./README.cn.md">
-    <img src="https://img.shields.io/badge/简体中文–ZH--CN–blue.svg" alt="简体中文">
+    <img src="https://img.shields.io/badge/简体中文-ZH--CN-blue.svg" alt="简体中文">
   </a>
 </p>
+
 
 # 💫 About Me:
 **Computer Science** student specializing in **_machine learning_**, with a focus on **time-series forecasting** and **computer vision**.
