@@ -4,7 +4,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=zihaozeng0021&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=zihaozeng0021&theme=dark&hide_border=false&include_all_commits=false&count_private=true"
     style="height:120px; width:auto; max-width:32%;"
     alt="GitHub stats"
   />
