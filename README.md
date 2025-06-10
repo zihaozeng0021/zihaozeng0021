@@ -1,3 +1,6 @@
+# 😊 Welcome!
+You are the ![Visitor Count](https://profile-counter.glitch.me/{zihaozeng0021}/count.svg) th visitor here.
+
 # 💫 About Me:
 **Computer Science** student specializing in **_machine learning_**, with a focus on **time-series forecasting** and **computer vision**.
 
@@ -24,8 +27,7 @@
 # ✨ Contributions:
 ![snake gif](https://github.com/zihaozeng0021/zihaozeng0021/blob/output/github-snake-dark.svg)
 
-# 👀 Visitors
-![Visitor Count](https://profile-counter.glitch.me/{zihaozeng0021}/count.svg)
+
 
 
 # 💻 Tech Stack:
