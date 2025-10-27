@@ -1,7 +1,7 @@
 # 💫 About Me:
 Computer Science student specializing in **_machine learning_** and **_data systems_**, currently conducting research on **optimizing algorithmic efficiency** and **developing intelligent frameworks**.
 
-More information is available at my [Homepage](https://zihaozeng0021.github.io/personal-portfolio/).
+More information is available at my [Homepage](https://zihaozeng0021.github.io/personal-portfolio/) (VPN required in mainland China).
 
 # 📊 GitHub Stats:
 <p align="center">
