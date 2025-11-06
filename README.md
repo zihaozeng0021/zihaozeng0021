@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student specializing in **_machine learning_** and **_data systems_**, currently conducting research on **optimizing algorithmic efficiency** and **developing intelligent frameworks**.
+Computer Science student specializing in **_machine learning_** and **_data systems_**, currently conducting research on leveraging **Large Language Models** for **Data System** researches.
 
 More information is available at my [Homepage](https://zihaozeng0021.github.io/personal-portfolio/) (VPN required in mainland China).
 
