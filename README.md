@@ -12,7 +12,7 @@ More information is available at my [Homepage](https://zihaozeng0021.github.io/p
   />
   <br>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=fb8c00"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=donut&title_color=fb8c00"
     style="height:120px; width:auto;"
     alt="Top languages"
   />
