@@ -6,21 +6,22 @@ More information is available at my [Homepage](https://zihaozeng0021.github.io/p
 # 📊 GitHub Stats:
 <p align="center">
   <img
+    src="https://nirzak-streak-stats.vercel.app/?user=zihaozeng0021&theme=highcontrast&hide_border=false"
+    style="height:120px; width:auto;"
+    alt="Streak stats"
+  />
+  <br>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=fb8c00"
+    style="height:120px; width:auto;"
+    alt="Top languages"
+  />
+  <!-- <img
     src="https://github-readme-stats.vercel.app/api?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&title_color=fb8c00&hide=issues,contribs,prs"
     style="height:120px; width:auto; max-width:32%;" 
     alt="GitHub stats"
-  />
+  /> -->
   <!-- &hide=stars,commits,prs,issues,contribs  &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage -->
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=zihaozeng0021&theme=highcontrast&hide_border=false"
-    style="height:120px; width:auto; max-width:32%;"
-    alt="Streak stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=fb8c00"
-    style="height:120px; width:auto; max-width:32%;"
-    alt="Top languages"
-  />
 </p>
 
 
