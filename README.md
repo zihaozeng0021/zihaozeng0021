@@ -17,7 +17,7 @@ More information is available at my [Homepage](https://zihaozeng0021.github.io/p
     alt="Top languages"
   />
   <!-- <img
-    src="https://github-readme-stats.vercel.app/api?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&title_color=fb8c00&hide=issues,contribs,prs"
+    src="https://github-readme-stats.vercel.app/api?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&title_color=fb8c00&hide=prs"
     style="height:120px; width:auto; max-width:32%;" 
     alt="GitHub stats"
   /> -->
