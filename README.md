@@ -6,7 +6,7 @@ More information is available at my [Homepage](https://zihaozeng0021.github.io/p
 # 📊 GitHub Stats:
 <p align="center">
     <img
-    src="https://github-readme-stats.vercel.app/api?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&title_color=fb8c00&hide=prs"
+    src="https://github-readme-stats-nine-brown-93.vercel.app/api?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&title_color=fb8c00&hide=prs"
     style="height:120px; width:auto;" 
     alt="GitHub stats"
   />
@@ -16,7 +16,7 @@ More information is available at my [Homepage](https://zihaozeng0021.github.io/p
     alt="Streak stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=donut&title_color=fb8c00"
+    src="https://github-readme-stats-nine-brown-93.vercel.app/api/top-langs/?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=donut&title_color=fb8c00"
     style="height:120px; width:auto;"
     alt="Top languages"
   />
