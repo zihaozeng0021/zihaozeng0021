@@ -4,7 +4,7 @@ Information is available at my [Homepage](https://zihaozeng0021.github.io/person
 # 📊 GitHub Stats:
 <p align="center">
     <img
-    src="https://github-readme-stats-nine-brown-93.vercel.app/api?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&title_color=fb8c00&hide=prs"
+    src="https://github-readme-stats-nine-brown-93.vercel.app/api?username=zihaozeng0021&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&title_color=fb8c00"
     style="height:120px; width:auto;" 
     alt="GitHub stats"
   />
